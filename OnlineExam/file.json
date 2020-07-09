@@ -1,0 +1,28 @@
+[
+	{
+		"id": 1,
+		"questions": "What is String?",
+		"options": [
+			{
+				"id": 1,
+				"optionName": "variable",
+				"iscorrect": false
+			},
+			{
+				"id": 2,
+				"optionName": "Class",
+				"iscorrect": true
+			},
+			{
+				"id": 3,
+				"optionName": "Mutable",
+				"iscorrect": false
+			},
+			{
+				"id": 4,
+				"optionName": "Synchronised",
+				"iscorrect": false
+			}
+		]
+	}
+]

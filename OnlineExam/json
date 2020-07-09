@@ -1,0 +1,22 @@
+ "question": {
+                "questions": "what is jvm?",
+                "options": [
+                    {
+                        "optionName": "variable",
+                        "iscorrect": "false"
+                    },
+                    {
+                        "optionName": "machine",
+                        "iscorrect": "false"
+                    },
+                    {
+                        "optionName": "complier",
+                        "iscorrect": "true"
+                    },
+                    {
+                        "optionName": "engine",
+                        "iscorrect": "false"
+                    }
+                ],
+                "selectedOption": "complier"
+            }
